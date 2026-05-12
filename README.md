@@ -137,4 +137,4 @@ JWT_SECRET=your_secret_key
 
 # Author
 
-Sumit Mishra
+Sumit Kumar Mishra
